@@ -9,8 +9,3 @@
 
 <br>
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=michaelshehata&theme=juicyfresh&no-bg=true" />
-
-<br>
