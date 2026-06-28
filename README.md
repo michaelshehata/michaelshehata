@@ -2,6 +2,6 @@
 
 # **Michael Shehata**
 
-### Using computers as a means to understand the world
+### Using machiens as a means to understand the world
 
 </div>
